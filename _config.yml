@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "yph.png"
   name             : "Penghui Yang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "666" 
   bio              : "Postdoctoral Research Fellow"
   location         : "Hangzhou, China"
-  location         : "Zhejiang University"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "yangph@zju.edu.cn" 
 

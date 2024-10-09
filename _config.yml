@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yph.png"
   name             : "Penghui Yang"
-  pronouns         : "666" 
+  pronouns         : # "666" 
   bio              : "Postdoctoral Research Fellow"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"

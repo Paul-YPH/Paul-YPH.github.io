@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* authors contributed equally
+\* authors contributed equally
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=XSbOmpsAAAAJ&hl=en).
 

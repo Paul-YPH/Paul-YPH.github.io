@@ -11,7 +11,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=XSbOmpsAAAAJ&hl=en).
 
 ## 2023
-- **Penghui Yang***, Lijun Jin*, Jie Liao*, Kaiyu Jin, Xin Shao, Chengyu Li, Jingyang Qian, Junyun Cheng, Dingyi Yu, Rongfang Guo, Xiao Xu, Xiaoyan Lu, Xiaohui Fan. *Revealing spatial multimodal heterogeneity in tissues with SpaTrio*. Cell Genom. 2023 Nov 27;3(12):100446.
+- **Penghui Yang\***, Lijun Jin*, Jie Liao*, Kaiyu Jin, Xin Shao, Chengyu Li, Jingyang Qian, Junyun Cheng, Dingyi Yu, Rongfang Guo, Xiao Xu, Xiaoyan Lu, Xiaohui Fan. *Revealing spatial multimodal heterogeneity in tissues with SpaTrio*. Cell Genom. 2023 Nov 27;3(12):100446.
 
 - Dingyi Yu, **Penghui Yang**, Xiaoyan Lu, Shaoze Huang, Li Liu, Xiaohui Fan. *Single-cell RNA sequencing reveals enhanced antitumor immunity after combined application of PD-1 inhibitor and Shenmai injection in non-small cell lung cancer*. Cell Commun Signal. 2023 Jul 10;21(1):169.
 

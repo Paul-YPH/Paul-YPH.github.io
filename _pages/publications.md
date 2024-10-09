@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Selected Publications"
+permalink: /publications/
+author_profile: true
+---
+
+
 ### Publications
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=XSbOmpsAAAAJ&hl=en).

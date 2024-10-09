@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Publications
+† authors contributed equally
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=XSbOmpsAAAAJ&hl=en).
 
@@ -19,7 +19,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Junyun Cheng†, Jie Chen†, Jie Liao, Tianhao Wang, Xin Shao, Jinbo Long, **Penghui Yang**, Anyao Li, Zheng Wang, Xiaoyan Lu*, Xiaohui Fan*. *High-throughput transcriptional profiling of perturbations by Panax ginseng saponins and Panax notoginseng saponins using TCM-seq*. Journal of Pharmaceutical Analysis. 2023, 13(4):376-387.
 
-- Jingyang Qian†, Jie Liao†*, Ziqi Liu†, Ying Chi†, Yin Fang, Yanrong Zheng, Xin Shao, Bingqi Liu, Yongjin Cui, Wenbo Guo, Yining Hu, Hudong Bao, **Penghui Yang**, Qian Chen, Mingxiao Li, Bing Zhang, Xiaohui Fan. *Reconstruction of cell pseudo-space from single-cell RNA sequencing data with scSpace*. Nature Communications. 2023, 14(1):2484.
+- Jingyang Qian†, Jie Liao†, Ziqi Liu†, Ying Chi†, Yin Fang, Yanrong Zheng, Xin Shao, Bingqi Liu, Yongjin Cui, Wenbo Guo, Yining Hu, Hudong Bao, **Penghui Yang**, Qian Chen, Mingxiao Li, Bing Zhang, Xiaohui Fan. *Reconstruction of cell pseudo-space from single-cell RNA sequencing data with scSpace*. Nature Communications. 2023, 14(1):2484.
 
 #### 2022
 - Kaiyu Jin†, Shan Gao†, **Penghui Yang†**, Rongfang Guo, Dan Li, Yunsha Zhang, Xiaoyan Lu, Guanwei Fan, Xiaohui Fan. *Single-cell RNA sequencing reveals the temporal diversity and dynamics of cardiac immunity after myocardial infarction*. Small methods. 2022, e2100752.

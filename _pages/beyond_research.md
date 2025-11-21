@@ -9,4 +9,5 @@ author_profile: true
 
 **Moving place**
 
-Ann arbor -> New Haven
+Ann Arbor -> New Haven
+

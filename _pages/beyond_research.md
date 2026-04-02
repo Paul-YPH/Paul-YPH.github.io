@@ -7,7 +7,5 @@ author_profile: true
 
 ### One thing I am doing recently:
 
-**Moving place**
 
-Ann Arbor -> New Haven
-
+Reading Why Nations Fail

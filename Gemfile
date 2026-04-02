@@ -9,3 +9,10 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 4.1"
+gem "base64", "~> 0.3.0"
+gem "logger", "~> 1.7"
+gem "mutex_m", "~> 0.3.0"

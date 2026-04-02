@@ -1,0 +1,60 @@
+[site]
+title = "Penghui Yang"
+description = "Postdoctoral Associate at Yale University working on computational biology and spatial omics."
+favicon = "/favicon.svg"
+last_updated = "April 2026"
+
+[author]
+name = "Penghui Yang"
+title = "Postdoctoral Associate"
+institution = "Yale University"
+avatar = "/bio.jpg"
+
+[social]
+email = "penghui.yang@yale.edu"
+location = "New Haven, USA"
+location_url = "https://maps.google.com/maps?q=New+Haven+CT"
+google_scholar = "https://scholar.google.com/citations?user=XSbOmpsAAAAJ&hl=en"
+github = "https://github.com/Paul-YPH"
+researchgate = "https://www.researchgate.net/profile/Penghui-Yang-7"
+twitter = "https://x.com/Paul_YPH"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
+
+[[navigation]]
+title = "Beyond Research"
+type = "page"
+target = "beyond_research"
+href = "/beyond_research"

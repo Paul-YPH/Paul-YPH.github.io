@@ -1,0 +1,27 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Hengrui Pharmaceutical Scholarship"
+subtitle = "Zhejiang University"
+date = "2023"
+content = ""
+
+[[items]]
+title = "Award of Honor for Graduate"
+subtitle = "Zhejiang University"
+date = "2022"
+content = ""
+
+[[items]]
+title = "Award of Honor for Graduate"
+subtitle = "Zhejiang University"
+date = "2021"
+content = ""
+
+[[items]]
+title = "Top Ten Outstanding Students of the College of Pharmaceutical Sciences"
+subtitle = "Zhejiang University"
+date = "2021"
+content = ""
